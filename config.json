@@ -1,3 +1,4 @@
 {
+  "enabled": true,
   "dll": "Assembly-CSharp.dll"
 }
